@@ -79,11 +79,9 @@
 ## <img src="./assets/code.gif" width="30" style="margin-bottom:-8px">  Software and Tools:
 <p align="left"> <a href="https://git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a><a href="https://vscode.coom" target="_blank"> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> </a><a href="https://linux.org" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black " alt="Linux" /> </a> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" alt="Kubernetes Badge"> <a href="https://docker.com" target="_blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white " alt="Docker" /> </a><a href="https://figma.com" target="_blank"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </a><a href="https://" target="_blank"> <img src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&labelColor=black&logo=windows-terminal&logoColor=white" alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" alt="Jira Badge"> <img src="https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff&style=for-the-badge" alt="Asana Badge">              
 </p>
-## <img src="./assets/handShake.gif" width="45" style="margin-bottom:-8px"> How can I work with clients?
-## [<img src="/assets/works.png"/>](https://tshingen01.github.io/projects)
 
-## <img src="./assets/line.gif" width="100%" style="margin-bottom:-8px"> Certifications
-<br/>
+[<img src="/assets/works.png"/>](https://tshingen01.github.io/projects)
+[<img src="./assets/line.gif" width="100%" style="margin-bottom:-8px">]
 ## <img src="./assets/awards.gif" width="45" style="margin-bottom:-8px"> Certifications
 <div align="center">
 <a href="https://www.hackerrank.com/certificates/aa8ed200da02" target="_blank" > <img src="/assets/certification-software.png" width="320" height="240" />
@@ -91,7 +89,7 @@
 <a href="https://www.hackerrank.com/certificates/3aa14f420bb0" target="_blank" ><img src="/assets/certification-r.png" width="320" height="240"/></a>
 <a href="https://www.hackerrank.com/certificates/81137fffe087" target="_blank" ><img src="/assets/certification-python.png" width="320" height="240"/></a>
 </div>
-
+[<img src="./assets/line.gif" width="100%" style="margin-bottom:-8px">]
 ## <img src="./assets/chart.gif" width="45" style="margin-bottom:-8px"> Mark Kinsley Rimando's Github Stats
 <p align="center">
 <a href="https://github.com/shenandrei4/github-readme-streak-stats">
