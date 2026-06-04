@@ -84,10 +84,10 @@
 <br/>
 ## <img src="./assets/awards.gif" width="45" style="margin-bottom:-8px"> Certifications
 <div align="center">
-[<img src="/assets/certification-software.png"/>](https://www.hackerrank.com/certificates/aa8ed200da02)
-[<img src="/assets/certification-frontend.png"/>](https://www.hackerrank.com/certificates/9a5c52f7b22c)
-[<img src="/assets/certification-r.png"/>](https://www.hackerrank.com/certificates/3aa14f420bb0)
-[<img src="/assets/certification-python.png"/>](https://www.hackerrank.com/certificates/81137fffe087)
+<a href="https://www.hackerrank.com/certificates/aa8ed200da02" target="_blank" > <img src="/assets/certification-software.png"/>
+<a href="https://www.hackerrank.com/certificates/9a5c52f7b22c" target="_blank" ><img src="/assets/certification-frontend.png"/></a>
+<a href="https://www.hackerrank.com/certificates/3aa14f420bb0" target="_blank" ><img src="/assets/certification-r.png"/></a>
+<a href="https://www.hackerrank.com/certificates/81137fffe087" target="_blank" ><img src="/assets/certification-python.png"/></a>
 </div>
 
 ## <img src="./assets/chart.gif" width="45" style="margin-bottom:-8px"> Mark Kinsley Rimando's Github Stats
