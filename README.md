@@ -1,5 +1,11 @@
 ## Hi there 👋
+<div align=center>
+  
+[<img src="/assets/cover.png"/>](https://capsule-render.vercel.app/)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=600&size=43&duration=3000&pause=1000&color=0A9529&center=true&vCenter=true&width=750&height=175&lines=My+name+is+Thiago+Sousa;I'm+a+Full-Stack+dev;Dedicated+to+Cryptography;Scientist+by+vocation+%F0%9F%92%9A;CEO+of+EBS+Security+Systems;Studying+BCET+at+UFRB;Always+active+on+Git-Hub;Available+for+projects;Full+description+below+%F0%9F%98%89;Find+the+Easter-Egg+🕵️‍♂️)](https://git.io/typing-svg)
+  
+</div>
 <!--
 **tshingen01/tshingen01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
