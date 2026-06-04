@@ -3,8 +3,9 @@
   
 [<img src="/assets/cover.png"/>](https://capsule-render.vercel.app/)
 
-![snake gif](/assets/github-contribution-grid-snake-dark.svg)
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=900&size=32&duration=3000&pause=1000&color=00A2E8&center=true&vCenter=true&width=750&height=175&lines=My+name+is+Mark+Kinsley+Rimando;Tech+Stack+Hybrid+Intelligent+Next-Gen+Engineer;Senior+Full+Stack+Developer;Advanced+Blockchain+Innovator+%F0%9F%92%9A;AI+&+Web+Enthusiast)](https://git.io/typing-svg)
+</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,8 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=900&size=43&duration=3000&pause=1000&color=00A2E8&center=true&vCenter=true&width=750&height=175&lines=My+name+is+Mark+Kinsley+Rimando;Tech+Stack+Hybrid+Intelligent+Next-Gen+Engineer;Senior+Full+Stack+Developer;Advanced+Blockchain+Innovator+%F0%9F%92%9A;AI+&+Web+Enthusiast)](https://git.io/typing-svg)
-</div>
+![snake gif](/assets/github-contribution-grid-snake-dark.svg)
 
 ##   <img alt="Loading Gif" src="./assets/contact-us.gif" width="40" style="margin-bottom:-14px"/>   Connect with me! <br>
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://shenadrei4.github.io/)
@@ -80,9 +80,9 @@
 <p align="left"> <a href="https://git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a><a href="https://vscode.coom" target="_blank"> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> </a><a href="https://linux.org" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black " alt="Linux" /> </a> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" alt="Kubernetes Badge"> <a href="https://docker.com" target="_blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white " alt="Docker" /> </a><a href="https://figma.com" target="_blank"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </a><a href="https://" target="_blank"> <img src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&labelColor=black&logo=windows-terminal&logoColor=white" alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" alt="Jira Badge"> <img src="https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff&style=for-the-badge" alt="Asana Badge">              
 </p>
  
-## <img src="./assets/chart.gif" width="45" style="margin-bottom:-8px"> Andrei Shen's Github Stats 
+## <img src="./assets/chart.gif" width="45" style="margin-bottom:-8px"> Mark Kinsley Rimando's Github Stats
 <p align="center">
 <a href="https://github.com/shenandrei4/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Andrei Shen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shenandrei4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shenandrei4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 
 </p>
