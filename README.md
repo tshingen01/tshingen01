@@ -3,17 +3,17 @@
   
 [<img src="/assets/cover.png"/>](https://tshingen01.github.io/about)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=900&size=28&duration=3000&pause=1000&color=00A2E8&center=true&vCenter=true&width=750&height=175&lines=My+name+is+Mark+Kinsley+Rimando;Tech+Stack+Hybrid+Intelligent+Next-Gen+Engineer;Senior+Full+Stack+Developer;Advanced+Blockchain+Innovator+%F0%9F%92%9A;AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=900&size=36&duration=3000&pause=1000&color=00A2E8&center=true&vCenter=true&width=750&height=175&lines=My+name+is+Mark+Kinsley+Rimando;Tech+Stack+Hybrid+Intelligent;Next+Generation+Engineer;Senior+Full+Stack+Developer;Advanced+Blockchain+Innovator+%F0%9F%92%9A;AI+Enthusiast)](https://git.io/typing-svg)
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a Senior Full Stack Developer.
+- 🌱 I’m currently learning AI and Next-Gen Techs.
+- 👯 I’m looking to collaborate on Web Development and the Blockchain Industry.
+- 🤔 I’m looking for help with Client Consultant & Business Assistant.
+- 💬 Ask me about Blockchain and Website development
+- 📫 How to reach me: https://t.me/yy339622 
+- ❤️ I am passionate about Software Engineering
+- 💻 I enjoy learning new things & sharing knowledge
 
 ![snake gif](/assets/github-contribution-grid-snake-dark.svg)
 
