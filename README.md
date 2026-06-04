@@ -1,9 +1,9 @@
 
 <div align=center>
   
-[<img src="/assets/cover.png"/>](https://capsule-render.vercel.app/)
+[<img src="/assets/cover.png"/>](https://tshingen01.github.io/about)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=900&size=32&duration=3000&pause=1000&color=00A2E8&center=true&vCenter=true&width=750&height=175&lines=My+name+is+Mark+Kinsley+Rimando;Tech+Stack+Hybrid+Intelligent+Next-Gen+Engineer;Senior+Full+Stack+Developer;Advanced+Blockchain+Innovator+%F0%9F%92%9A;AI+&+Web+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=900&size=32&duration=3000&pause=1000&color=00A2E8&center=true&vCenter=true&width=750&height=175&lines=My+name+is+Mark+Kinsley+Rimando;Tech+Stack+Hybrid+Intelligent+Next-Gen+Engineer;Senior+Full+Stack+Developer;Advanced+Blockchain+Innovator+%F0%9F%92%9A;AI+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 - 🔭 I’m currently working on ...
@@ -80,9 +80,20 @@
 <p align="left"> <a href="https://git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a><a href="https://vscode.coom" target="_blank"> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> </a><a href="https://linux.org" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black " alt="Linux" /> </a> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" alt="Kubernetes Badge"> <a href="https://docker.com" target="_blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white " alt="Docker" /> </a><a href="https://figma.com" target="_blank"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </a><a href="https://" target="_blank"> <img src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&labelColor=black&logo=windows-terminal&logoColor=white" alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" alt="Jira Badge"> <img src="https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff&style=for-the-badge" alt="Asana Badge">              
 </p>
  
+[<img src="/assets/works.png"/>](https://tshingen01.github.io/projects)
+<br/>
+## <img src="./assets/awards.gif" width="45" style="margin-bottom:-8px"> Certifications
+<div align="center">
+[<img src="/assets/certification-software.png"/>](https://www.hackerrank.com/certificates/aa8ed200da02)
+[<img src="/assets/certification-frontend.png"/>](https://www.hackerrank.com/certificates/9a5c52f7b22c)
+[<img src="/assets/certification-r.png"/>](https://www.hackerrank.com/certificates/3aa14f420bb0)
+[<img src="/assets/certification-python.png"/>](https://www.hackerrank.com/certificates/81137fffe087)
+</div>
+
 ## <img src="./assets/chart.gif" width="45" style="margin-bottom:-8px"> Mark Kinsley Rimando's Github Stats
 <p align="center">
 <a href="https://github.com/shenandrei4/github-readme-streak-stats">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shenandrei4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 
 </p>
+
