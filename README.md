@@ -85,7 +85,7 @@
 ## <img src="./assets/awards.gif" width="45" style="margin-bottom:-8px"> Certifications
 <img src="./assets/line.gif" width="100%" style="margin-bottom:-8px">
 <div align="center">
-<a href="https://www.hackerrank.com/certificates/aa8ed200da02" target="_blank" > <img src="/assets/certification-software.png" width="320" height="240" />
+<a href="https://www.hackerrank.com/certificates/aa8ed200da02" target="_blank" ><img src="/assets/certification-software.png" width="320" height="240" /></a>
 <a href="https://www.hackerrank.com/certificates/9a5c52f7b22c" target="_blank" ><img src="/assets/certification-frontend.png" width="320" height="240"/></a>
 <a href="https://www.hackerrank.com/certificates/3aa14f420bb0" target="_blank" ><img src="/assets/certification-r.png" width="320" height="240"/></a>
 <a href="https://www.hackerrank.com/certificates/81137fffe087" target="_blank" ><img src="/assets/certification-python.png" width="320" height="240"/></a>
