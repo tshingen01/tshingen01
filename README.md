@@ -93,9 +93,11 @@
 <img src="./assets/line.gif" width="100%" style="margin-bottom:-8px">
 
 ## <img src="./assets/chart.gif" width="45" style="margin-bottom:-8px"> Mark Kinsley Rimando's Github Stats
-<p align="center">
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tshingen01&theme=telegram-gradient&date_format=%5BY.%5Dn.j&card_width=512&card_height=192)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tshingen01&theme=meta-dark&hide_border=true&date_format=%5BY.%5Dn.j&card_width=512&card_height=192)](https://git.io/streak-stats)
 
-</p>
+ </div>
+
+
 
